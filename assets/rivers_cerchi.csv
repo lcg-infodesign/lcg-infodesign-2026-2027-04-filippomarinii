@@ -1,0 +1,84 @@
+id,name,countries,length,discharge,nome_riga_1,offset_1,nome_riga_2,offset_2,paesi_popup,larghezza_popup,altezza_popup,area,outflow,lunghezza_testo,portata_testo,bacino_testo
+51,Godavari,India,1465,3085,Godavari,25.0,,0.0,India,126,47,312812,Golfo del Bengala,1.465,3.085,312.812
+62,Ebro,Spain,910,426,Ebro,13.0,,0.0,Spain,126,47,85262,Mar Mediterraneo,910,426,85.262
+18,Volga,Russia,3645,8060,Volga,16.0,,0.0,Russia,126,47,1360000,Mar Caspio,3.645,8.060,1.360.000
+91,Kuskokwim,United States,1165,1600,Kuskokwim,31.0,,0.0,United States,126,47,118000,Mare di Bering,1.165,1.600,118.000
+24,São Francisco,Brazil,3150,2850,São,11.0,Francisco,26.5,Brazil,126,47,641000,Oceano Atlantico,3.150,2.850,641.000
+58,Fraser,Canada,1375,348,Fraser,17.5,,0.0,Canada,126,47,23300,Stretto di Georgia,1.375,348,23.300
+30,Danube,"Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, Ukraine",2860,6450,Danube,22.0,,0.0,"Germany, Austria, Slovakia, Hungary, Croatia,
+Serbia, Bulgaria, Romania, Moldova, Ukraine",275,62,817000,Mar Nero,2.860,6.450,817.000
+59,Orinoco,"Venezuela, Colombia",2140,33000,Orinoco,21.5,,0.0,"Venezuela, Colombia",144,47,880000,Oceano Atlantico,2.140,33.000,880.000
+77,Sanaga,Cameroon,918,1925,Sanaga,21.5,,0.0,Cameroon,126,47,133000,Oceano Atlantico,918,1.925,133.000
+40,Loire,France,1020,802,Loire,14.0,,0.0,France,126,47,117054,Golfo di Biscaglia,1.020,802,117.054
+15,Brahmaputra,"China, India, Bangladesh",3960,19800,Brahmaputra,35.5,,0.0,"China, India, Bangladesh",164,47,651335,Golfo del Bengala,3.960,19.800,651.335
+90,Trombetas,Brazil,1300,4055,Trombetas,29.0,,0.0,Brazil,126,47,133630,Rio delle Amazzoni,1.300,4.055,133.630
+42,Ural,"Russia, Kazakhstan",2428,400,Ural,11.5,,0.0,"Russia, Kazakhstan",134,47,231000,Mar Caspio,2.428,400,231.000
+46,Seine,France,777,470,Seine,16.0,,0.0,France,126,47,78500,Canale della Manica,777,470,78.500
+6,Yellow River,China,5464,2110,Yellow River,34.49,,0.0,China,126,47,752546,Golfo di Bohai,5.464,2.110,752.546
+85,Tigris,"Turkey, Iraq, Syria",1850,1200,Tigris,15.0,,0.0,"Turkey, Iraq, Syria",126,47,375000,Shatt al-Arab,1.850,1.200,375.000
+54,Limpopo,"Botswana, South Africa, Zimbabwe, Mozambique",1800,170,Limpopo,24.0,,0.0,"Botswana, South Africa, Zimbabwe,
+Mozambique",218,62,415000,Oceano Indiano,1.800,170,415.000
+87,Liard,Canada,1115,3513,Liard,14.0,,0.0,Canada,126,47,277100,Mackenzie,1.115,3.513,277.100
+75,Khatanga,Russia,2278,4100,Khatanga,26.5,,0.0,Russia,126,47,364000,Mare di Laptev,2.278,4.100,364.000
+44,Sepik,"Papua New Guinea, Indonesia",1126,101,Sepik,15.5,,0.0,"Papua New Guinea, Indonesia",193,47,77995,Oceano Pacifico,1.126,101,77.995
+23,Indus,"Pakistan, India, China, Afghanistan",3180,6000,Indus,15.0,,0.0,"Pakistan, India, China, Afghanistan",216,47,1155000,Mar Arabico,3.180,6.000,1.155.000
+53,Po,Italy,652,1500,Po,7.5,,0.0,Italy,126,47,74000,Mar Adriatico,652,1.500,74.000
+70,Vistula,Poland,1047,1080,Vistula,18.5,,0.0,Poland,126,47,194424,Mar Baltico,1.047,1.080,194.424
+34,Dnieper,"Russia, Belarus, Ukraine",2285,1670,Dnieper,22.0,,0.0,"Russia, Belarus, Ukraine",161,47,504000,Mar Nero,2.285,1.670,504.000
+79,Mahanadi,India,858,2100,Mahanadi,27.5,,0.0,India,126,47,141600,Golfo del Bengala,858,2.100,141.600
+3,Yangtze,China,6300,31900,Yangtze,22.5,,0.0,China,126,47,1808500,Mar Cinese Orientale,6.300,31.900,1.808.500
+81,Rio Negro,"Brazil, Colombia, Venezuela",2250,29060,Rio Negro,28.0,,0.0,"Brazil, Colombia, Venezuela",181,47,691000,Rio delle Amazzoni,2.250,29.060,691.000
+11,Lena,Russia,4400,16400,Lena,14.0,,0.0,Russia,126,47,2490000,Oceano Artico,4.400,16.400,2.490.000
+96,Arkansas,United States,2349,800,Arkansas,25.5,,0.0,United States,126,47,505000,Mississippi,2.349,800,505.000
+83,Desna,"Russia, Ukraine",1130,360,Desna,18.0,,0.0,"Russia, Ukraine",126,47,88900,Dnepr,1.130,360,88.900
+71,Neva,Russia,74,2490,Neva,14.5,,0.0,Russia,126,47,281000,Mar Baltico,74,2.490,281.000
+20,Purús,"Brazil, Peru",3379,8400,Purús,16.0,,0.0,"Brazil, Peru",126,47,371042,Rio delle Amazzoni,3.379,8.400,371.042
+65,Neman,"Belarus, Lithuania, Russia",937,678,Neman,20.0,,0.0,"Belarus, Lithuania, Russia",169,47,98200,Laguna dei Curi,937,678,98.200
+76,Xingu,Brazil,1980,9600,Xingu,16.0,,0.0,Brazil,126,47,531250,Rio delle Amazzoni,1.980,9.600,531.250
+48,Irrawaddy,Myanmar,2170,13159,Irrawaddy,27.0,,0.0,Myanmar,126,47,413710,Oceano Indiano,2.170,13.159,413.710
+22,Yukon,"United States, Canada",3190,6430,Yukon,17.5,,0.0,"United States, Canada",149,47,832700,Mare di Bering,3.190,6.430,832.700
+26,Salween,"China, Myanmar, Thailand",2990,16300,Salween,24.0,,0.0,"China, Myanmar, Thailand",170,47,271914,"Mare delle
+Andamane",2.990,16.300,271.914
+12,Mekong,"China, Myanmar, Laos, Thailand, Cambodia, Vietnam",4350,16000,Mekong,22.0,,0.0,"China, Myanmar, Laos, Thailand, Cambodia,
+Vietnam",269,62,795000,"Mar Cinese
+Meridionale",4.350,16.000,795.000
+93,Barito,Indonesia,900,800,Barito,16.0,,0.0,Indonesia,126,47,70000,Mar di Giava,900,800,70.000
+29,Lower Tunguska,Russia,2989,4780,Lower,17.0,Tunguska,27.0,Russia,126,47,488000,Enisej,2.989,4.780,488.000
+95,Teles Pires,Brazil,1370,5300,Teles Pires,30.49,,0.0,Brazil,126,47,141830,Rio delle Amazzoni,1.370,5.300,141.830
+64,Drava,"Italy, Austria, Slovenia, Hungary, Croatia",725,580,Drava,16.5,,0.0,"Italy, Austria, Slovenia, Hungary, Croatia",245,47,40926,Danubio,725,580,40.926
+60,Red River,"China, Vietnam",1360,1250,Red River,27.5,,0.0,"China, Vietnam",126,47,242500,Golfo del Tonchino,1.360,1.250,242.500
+84,Pechora,Russia,1809,4040,Pechora,23.0,,0.0,Russia,126,47,322000,Mare di Barents,1.809,4.040,322.000
+39,Colorado,"United States, Mexico",2330,642,Colorado,25.5,,0.0,"United States, Mexico",144,47,637137,Golfo di California,2.330,642,637.137
+86,Aras,"Turkey, Armenia, Iran, Azerbaijan",1072,285,Aras,12.5,,0.0,"Turkey, Armenia, Iran, Azerbaijan",207,47,102000,Kura,1.072,285,102.000
+49,Shinano,Japan,367,546,Shinano,23.0,,0.0,Japan,126,47,1191,Mar del Giappone,367,546,1.191
+14,Niger,"Nigeria, Mali, Niger, Algeria, Guinea, Cameroon, Benin, Burkina Faso, Chad, Côte d'Ivoire",4180,6000,Niger,15.0,,0.0,"Nigeria, Mali, Niger, Algeria, Guinea,
+Cameroon, Benin, Burkina Faso, Chad,
+Côte d'Ivoire",239,77,2092000,Golfo di Guinea,4.180,6.000,2.092.000
+32,Zambezi,"Zambia, Angola, Namibia, Botswana, Zimbabwe, Mozambique, Malawi, Tanzania",2734,4900,Zambezi,23.5,,0.0,"Zambia, Angola, Namibia, Botswana,
+Zimbabwe, Mozambique, Malawi, Tanzania",262,62,1390000,Oceano Indiano,2.734,4.900,1.390.000
+45,Tapajós,Brazil,2100,12849,Tapajós,21.99,,0.0,Brazil,126,47,487103,Rio delle Amazzoni,2.100,12.849,487.103
+88,Vychegda,Russia,1130,1795,Vychegda,27.5,,0.0,Russia,126,47,121000,Dvina settentrionale,1.130,1.795,121.000
+37,Vilyuy,Russia,2646,1350,Vilyuy,16.5,,0.0,Russia,126,47,491000,Lena,2.646,1.350,491.000
+57,Rhine,"Switzerland, Liechtenstein, Austria, Germany, France, Netherlands",1233,2900,Rhine,16.5,,0.0,"Switzerland, Liechtenstein, Austria, Germany,
+France, Netherlands",272,62,185000,Mare del Nord,1.233,2.900,185.000
+82,Sutlej,"China, India, Pakistan",1450,500,Sutlej,15.5,,0.0,"China, India, Pakistan",145,47,395000,Indo,1.450,500,395.000
+69,Seversky Donets,"Russia, Ukraine",1053,160,Seversky,25.0,Donets,19.5,"Russia, Ukraine",126,47,98800,Don,1.053,160,98.800
+55,Dniester,"Ukraine, Moldova",1352,310,Dniester,23.0,,0.0,"Ukraine, Moldova",126,47,72100,Mar Nero,1.352,310,72.100
+63,Meuse,"France, Belgium, Netherlands",925,357,Meuse,18.5,,0.0,"France, Belgium, Netherlands",188,47,36577,Mare del Nord,925,357,36.577
+33,Amu Darya,"Tajikistan, Uzbekistan, Afghanistan, Turkmenistan",2620,2560,Amu Darya,30.5,,0.0,"Tajikistan, Uzbekistan, Afghanistan,
+Turkmenistan",219,62,534739,Lago d’Aral,2.620,2.560,534.739
+52,Beni,Bolivia,1580,14130,Beni,12.5,,0.0,Bolivia,126,47,200000,Madeira,1.580,14.130,200.000
+78,Liao,China,1345,500,Liao,12.0,,0.0,China,126,47,219000,Golfo di Bohai,1.345,500,219.000
+61,Tagus,"Spain, Portugal",1007,430,Tagus,16.99,,0.0,"Spain, Portugal",126,47,80900,Oceano Atlantico,1.007,430,80.900
+67,Guaporé,"Brazil, Bolivia",1750,35000,Guaporé,24.0,,0.0,"Brazil, Bolivia",126,47,351750,Rio delle Amazzoni,1.750,35.000,351.750
+35,Ganges,"India, Nepal, Bangladesh, China",2525,16000,Ganges,21.5,,0.0,"India, Nepal, Bangladesh, China",203,47,1000000,Golfo del Bengala,2.525,16.000,1.000.000
+28,Rio Grande,"United States, Mexico",3057,160,Rio Grande,31.5,,0.0,"United States, Mexico",144,47,558000,Golfo del Messico,3.057,160,558.000
+38,Kolyma,Russia,2513,3910,Kolyma,20.5,,0.0,Russia,126,47,643000,"Mare della Siberia
+orientale",2.513,3.910,643.000
+73,Churchill,Canada,1690,529,Churchill,24.5,,0.0,Canada,126,47,287000,Baia di Hudson,1.690,529,287.000
+74,Mures,"Romania, Hungary",768,185,Mures,17.0,,0.0,"Romania, Hungary",129,47,28500,Danubio,768,185,28.500
+31,Chishui,China,2860,3800,Chishui,21.0,,0.0,China,126,47,142936,Fiume Azzurro,2.860,3.800,142.936
+47,Douro,"Spain, Portugal",897,423,Douro,17.0,,0.0,"Spain, Portugal",126,47,97280,Oceano Atlantico,897,423,97.280
+41,Uruguay,"Brazil, Uruguay, Argentina",1838,4900,Uruguay,23.5,,0.0,"Brazil, Uruguay, Argentina",169,47,385000,Río de la Plata,1.838,4.900,385.000
+50,Magdalena,Colombia,1550,7150,Magdalena,31.0,,0.0,Colombia,126,47,257438,Mar dei Caraibi,1.550,7.150,257.438
+66,Han,China,1416,2417,Han,11.5,,0.0,China,126,47,2638,Mar Giallo,1.416,2.417,2.638
